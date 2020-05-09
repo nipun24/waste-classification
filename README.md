@@ -8,6 +8,13 @@ with respect to waste management system.
 
 Designing a Convolutional neural network that will be a fully capable of classifying images as either organic or recyclable.
 
+# 📁 Files
+
+- `waste-classification.ipynb` - iPython Notebook
+- `waste-classification.py` - Python script file
+- `DATASET.zip` - dataset (25,000 images)
+- `/docs` - if you wanna know more about this project 🥱
+
 # ⚙ Usage
 
 Load the `waste-classier.h5` file using tensorflow, if you don't want to train the network again.
