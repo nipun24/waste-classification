@@ -36,5 +36,5 @@ Load the `waste-classier.h5` file using tensorflow, if you don't want to train t
 
 # ❤ Contributers
 
-- Me 😂
+- [Me](https://github.com/nipun24) 😂
 - [Rahul Hebbar](https://github.com/rahul-hebbar)
