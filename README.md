@@ -26,3 +26,8 @@ Load the `waste-classier.h5` file using tensorflow, if you don't want to train t
 - https://blog.keras.io/building-powerful-image-classification-models-using-very-little-ata.html
 - https://www.tensorflow.org/tensorboard/get_started
 - https://www.kaggle.com/techsash/waste-classification-data
+
+# ❤ Contributers
+
+- Me 😂
+- [Rahul Hebbar](https://github.com/rahul-hebbar)
