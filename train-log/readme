@@ -1,5 +1,0 @@
-Downlaod train folder
-
-in cmd do - 
-
-tensorboard dev upload --logdir train\
