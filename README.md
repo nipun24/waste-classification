@@ -6,7 +6,7 @@ with respect to waste management system.
 
 # 📌 About
 
-Designing a Convolutional neural network that will be a fully capable of classifying images as either organic or recyclable.
+Designing a Convolutional neural network that will be a fully capable of classifying images as either organic or recyclable. Just download he dataset from kaggle.
 
 # 📁 Files
 
