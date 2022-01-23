@@ -2,3 +2,4 @@
 /.ipynb_checkpoints
 DATASET.zip
 waste-classifier-transfer.h5
+.DS_Store
